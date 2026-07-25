@@ -33,5 +33,10 @@
       }
     }
   ],
-  "nextId": 1
+  "nextId": 1,
+  "announcement": {
+    "content": "1",
+    "time": "2026-07-25T13:09:08.723Z",
+    "author": "11"
+  }
 }
