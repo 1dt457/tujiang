@@ -11,9 +11,9 @@
       "lastSeen": "2026-07-25T14:39:05.610Z",
       "isOnline": true,
       "profile": {
-        "name": "ç³é¿é¸£",
+        "name": "石长鸣",
         "contact": "",
-        "avatar": "ç³"
+        "avatar": "石"
       }
     },
     {
@@ -33,5 +33,10 @@
       }
     }
   ],
-  "nextId": 1
+  "nextId": 1,
+  "announcement": {
+    "content": "欢迎使用图匠系统！这是管理员发布的测试公告，支持中文显示。",
+    "time": "2026-07-25T15:00:00.000Z",
+    "author": "石长鸣"
+  }
 }
