@@ -35,11 +35,12 @@
   ],
   "nextId": 1,
   "announcement": {
-    "content": "测试",
-    "time": "2026-07-25T15:27:59.357Z",
+    "content": "正式上线了！！！",
+    "time": "2026-07-25T16:03:16.554Z",
     "author": "石长鸣",
-    "targets": [
-      "__ALL__"
+    "targetUsers": [
+      "u_mrzr4kq2_73hgyq",
+      "u_ms005hih_x30e25"
     ]
   }
 }
