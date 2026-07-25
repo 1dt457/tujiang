@@ -7,9 +7,9 @@
       "role": "admin",
       "deviceId": "dev_00f8y8gm",
       "createdAt": "2026-07-25T02:30:12.458Z",
-      "lastLogin": "2026-07-25T09:53:51.664Z",
-      "lastSeen": "2026-07-25T15:42:06.442Z",
-      "isOnline": false,
+      "lastLogin": "2026-07-25T15:43:24.386Z",
+      "lastSeen": "2026-07-25T15:43:24.386Z",
+      "isOnline": true,
       "profile": {
         "name": "石长鸣",
         "contact": "",
@@ -35,12 +35,11 @@
   ],
   "nextId": 1,
   "announcement": {
-    "content": "我试试",
-    "time": "2026-07-25T15:40:33.840Z",
+    "content": "测试",
+    "time": "2026-07-25T15:27:59.357Z",
     "author": "石长鸣",
-    "targetUsers": [
-      "u_mrzr4kq2_73hgyq",
-      "u_ms005hih_x30e25"
+    "targets": [
+      "__ALL__"
     ]
   }
 }
