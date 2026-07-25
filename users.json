@@ -1,4 +1,21 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": "u_mrzr4kq2_73hgyq",
+      "username": "11",
+      "password": "c7687e181e766acf9f5d63c05d2ea654d88807eb3a22ecc377cb607f49ada45a",
+      "role": "admin",
+      "deviceId": "dev_00f8y8gm",
+      "createdAt": "2026-07-25T02:30:12.458Z",
+      "lastLogin": "2026-07-25T02:30:12.458Z",
+      "lastSeen": "2026-07-25T02:30:12.458Z",
+      "isOnline": true,
+      "profile": {
+        "nickname": "第一",
+        "avatar": "",
+        "bio": "帅气"
+      }
+    }
+  ],
   "nextId": 1
 }
