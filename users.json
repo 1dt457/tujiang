@@ -8,7 +8,7 @@
       "deviceId": "dev_00f8y8gm",
       "createdAt": "2026-07-25T02:30:12.458Z",
       "lastLogin": "2026-07-25T16:00:45.995Z",
-      "lastSeen": "2026-07-26T01:18:02.394Z",
+      "lastSeen": "2026-07-26T01:17:07.996Z",
       "isOnline": true,
       "profile": {
         "name": "石长鸣",
@@ -30,6 +30,22 @@
         "nickname": "111",
         "avatar": "",
         "bio": ""
+      }
+    },
+    {
+      "id": "u_ms14329l_xsjpab",
+      "username": "cc",
+      "password": "511010114aacf8c65708dfe17154b4469f4db009cc7d3731b0b476e6787b34e8",
+      "role": "user",
+      "deviceId": "dev_00cmy381",
+      "createdAt": "2026-07-26T01:20:43.065Z",
+      "lastLogin": "2026-07-26T01:20:43.065Z",
+      "lastSeen": "2026-07-26T01:20:43.065Z",
+      "isOnline": true,
+      "profile": {
+        "name": "曹宏宇",
+        "contact": "3361869249",
+        "avatar": "曹"
       }
     }
   ],
