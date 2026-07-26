@@ -51,9 +51,13 @@
   ],
   "nextId": 1,
   "announcement": {
-    "content": "666",
-    "time": "2026-07-26T01:21:51.492Z",
+    "content": "正式版上线了！！！",
+    "time": "2026-07-26T01:22:58.173Z",
     "author": "石长鸣",
-    "targetUsers": []
+    "targetUsers": [
+      "u_mrzr4kq2_73hgyq",
+      "u_ms005hih_x30e25",
+      "u_ms14329l_xsjpab"
+    ]
   }
 }
