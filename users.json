@@ -67,9 +67,14 @@
   ],
   "nextId": 1,
   "announcement": {
-    "content": "111",
-    "time": "2026-08-10T08:16:06.965Z",
+    "content": "那年他们都喊我天才",
+    "time": "2026-08-10T10:47:34.648Z",
     "author": "石长鸣",
-    "targetUsers": []
+    "targetUsers": [
+      "u_mrzr4kq2_73hgyq",
+      "u_ms005hih_x30e25",
+      "u_ms14329l_xsjpab",
+      "u_ms2rot1e_pvv1b3"
+    ]
   }
 }
